@@ -1,0 +1,4 @@
+{
+    "terminal.sourceControlRepositoriesKind": "both",
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true
+}
